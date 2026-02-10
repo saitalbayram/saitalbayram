@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Sait
 
-<!--
-**saitalbayram/saitalbayram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with a strong backend focus.
+I mainly work with .NET Web API and Flutter, building
+production-ready systems deployed with Docker and Kubernetes.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Backend: .NET Web API
+- Mobile: Flutter
+- Database: PostgreSQL
+- Cache: Redis
+- DevOps: Docker, Kubernetes (k3s)
+- Infra: Linux (Ubuntu), Nginx, IIS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- Design RESTful APIs with Clean Architecture
+- Build and deploy containerized applications
+- Work with Kubernetes ingress, logging, and troubleshooting
+- Take projects from development to production
+
+### 📌 Currently Working On
+- Appointment-based application (API + Mobile)
+- Backend performance and scalability improvements
